@@ -10,6 +10,7 @@ aiwins/
 .env/
 
 secrets.toml
+set_env_var.ps1
 1_Chat_with_Data_solution.py
 2_Api_Integration_solution.py
 3_Vector_Search_solution.py

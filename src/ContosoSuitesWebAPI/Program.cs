@@ -79,7 +79,7 @@ app.UseHttpsRedirection();
 // This endpoint serves as the default landing page for the API.
 app.MapGet("/", async () => 
 {
-    return "Welcome to the Contoso Suites Web API!";
+    return "Welcome to the Contoso Suites Web API o yeah!";
 })
     .WithName("Index")
     .WithOpenApi();
